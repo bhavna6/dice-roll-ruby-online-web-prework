@@ -24,3 +24,5 @@ describe "#roll" do
   end
 
 end
+
+def roll
