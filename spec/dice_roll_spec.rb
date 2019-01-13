@@ -25,4 +25,6 @@ describe "#roll" do
 
 end
 
-def roll
+def roll = 1 + rand(6)
+  return roll
+end
